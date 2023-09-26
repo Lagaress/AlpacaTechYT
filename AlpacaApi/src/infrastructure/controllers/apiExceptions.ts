@@ -1,0 +1,1 @@
+export const AlpacaNotFound = { code: 'AL40400', statusCode: '404', message: 'Alpaca not found' }
